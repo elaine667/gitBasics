@@ -51,6 +51,19 @@ git add -p
 git commit -m "<message>"
 	-commits all new changes to your computer
 	-shows message
+	-if you forget the message and see a scary screen: 
+		-type in your multi-line message
+		-Esc + wq
 
 git push
 	-syncs GitHub with your commits
+
+git pull
+	-syncs your computer with GitHub
+
+================================================================
+manual merging after git pull:
+	-top line is what you have
+	-fix stuff
+	-git add -A
+	-git commit (without message)
