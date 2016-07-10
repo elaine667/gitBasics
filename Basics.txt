@@ -1,0 +1,18 @@
+git clone <url>
+	-clones repo to my computer
+	-be in directory I want repo to be in
+	-PASTE SHORTCUT: Shift + Insert
+
+***Commands only work in the same directory where repo is***
+
+git status
+	-keeps you up to date on all changes
+
+git add <file name>
+	-inserts file
+
+git commit
+	-commits all new changes to your computer
+
+git push
+	-syncs GitHub with your commits
